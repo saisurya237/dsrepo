@@ -6,16 +6,26 @@ This project implements:
   - Using a brute-force path-finding approach.
   - Using an optimized efficient DFS approach.
 
+# Cycle Detection in Linked Lists
+
+This project implements:
+- Detection of a cycle in a singly linked list.
+- Two methods:
+  - **Brute-force approach** using a hash set.
+  - **Optimized approach** using **Floyd's Tortoise and Hare Algorithm**.
+
+
 ## Files
 
 - `tree_traversal.py`: Contains the full implementation with comments and examples.
-- `test_tree_traversal.py`: Contains unit tests for validation.
+- `cyclelinkedlist.py`: Contains the full implementation with comments and example usage.
 
 ## How to Run
 
 1. Ensure you have Python 3 installed.
 2. Clone or download this repository.
-3. Run the main tree_traversal file:
+3. Run the corresponding file to see example outputs:
 
 ```bash
 python tree_traversal.py
+python cyclelinkedlist.py
