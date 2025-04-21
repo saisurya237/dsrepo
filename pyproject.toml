@@ -2,7 +2,7 @@
 name = "personal-scripts"
 version = "0.1.0"
 description = ""
-authors = ["Thatode Sai Surya Abishek <athatode@athenahealth.com>"]
+authors = ["Thatode Sai Surya Abishek"]
 readme = "README.md"
 package-mode = false
 
